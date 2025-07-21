@@ -1,3 +1,0 @@
-
-this is mern stack developer
-this echo coffee shop 
