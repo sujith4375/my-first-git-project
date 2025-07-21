@@ -1,4 +1,0 @@
-
-echo "wrong file content">
-
-this practice session
